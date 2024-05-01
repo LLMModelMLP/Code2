@@ -1,1 +1,2 @@
-Print("fine")
+Print("OK")
+Print("OK")
