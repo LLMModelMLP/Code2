@@ -1,1 +1,1 @@
-Print("OK here we go")
+Print("fine")
